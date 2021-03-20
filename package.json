@@ -1,6 +1,6 @@
 {
   "name": "cross-origin-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A same-origin storage for cross-domain access using Session Storage.",
   "main": "build/index.js",
   "types": "build/types/index.d.ts",
